@@ -1,3 +1,4 @@
+```
 pip install qiskit-aer
 
 from qiskit import QuantumCircuit
